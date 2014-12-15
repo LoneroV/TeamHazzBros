@@ -1,0 +1,46 @@
+div{
+  border-style: solid;
+  border-width: 2px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.container{
+    border-color: slategrey;
+}
+
+.row{
+    border-color: white;
+}
+
+#justin{
+    background-color: gray;
+    color: gold;
+}
+
+#mony{
+    background-color: darkred;
+    color: grey;
+}
+
+#tre{
+    background-color: black;
+    color: orangered;
+}
+
+#home{
+    background-color: #e38d13;
+    color: black;
+}
+
+.nav-tabs{
+    
+}
+
+#a{
+    color: blue;
+}
+
+#clan{
+    background-color: gold;
+}
