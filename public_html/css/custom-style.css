@@ -2,7 +2,7 @@ div{
   border-style: solid;
   border-width: 0px;
   text-align: center;
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .container{
@@ -52,4 +52,9 @@ div{
 #clan{
     background-color: gold;
     color: black;
+}
+
+#Demon{
+    background-color: royalblue;
+    color: goldenrod;
 }
